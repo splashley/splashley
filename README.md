@@ -1,8 +1,11 @@
-### Hi, I'm Ashley 👋🏻
+<img src="https://i.imgur.com/5M6lree.png">
+## Some projects I'm working on
+- Coming soon!
+## Find me online
+- <a href="https://www.linkedin.com/in/ashley-hynes/">LinkedIn</a> 
+- <a href="https://www.twitch.tv/splashley">Twitch</a> 
 
-<!--
-**splashley/splashley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
