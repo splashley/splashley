@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/N2MSmaX.png">
+<img src="https://i.imgur.com/DhsdLIR.png">
 
 ## Some projects I'm working on
 * Coming soon!
