@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/UKxFTKP.png">
 
-## Some projects I'm working on
+## Some projects I've worked on
 * Coming soon!
 
 ## Find me online
