@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [www.ashleyhynes.com + www.github.com/splashley](www.ashleyhynes.com + www.github.com/splashley)
+- 👨‍💻 All of my projects are available at here in Github.
 
 - 📫 How to reach me **ashleyjlhynes@gmail.com**
 
