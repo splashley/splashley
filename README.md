@@ -1,5 +1,7 @@
-<h1 align="leftr">Hi 👋, I'm Ashley</h1>
+<h1 align="left">Hi 👋, I'm Ashley</h1>
 <h3 align="left">Frontend Developer looking to start her career.</h3>
+
+<br />
 
 - 🌱 I’m currently learning **Vue.js, TypeScript**
 
