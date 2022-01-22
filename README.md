@@ -9,7 +9,7 @@ Welcome to my Github! I'm a:<br/>
 💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey!)<br/>
 💜 Student at Concordia University for Business Technology Management<br/> 
 💜 Pro Cat Mom<br/>
-💜 Constant learner<br/>
+💜 Lifelong Learner<br/>
 
 My projects can be found here on Github. I've worked on a variety of small to medium sizes projects that have contributed to where I am now.
 
