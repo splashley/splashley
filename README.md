@@ -11,6 +11,6 @@ Welcome to my Github! I'm a:<br/>
 💜 Pro Cat Mom<br/>
 💜 Lifelong Learner<br/>
 
-My projects can be found here on Github. I've worked on a variety of small to medium sizes projects that have contributed to where I am now.
+My projects can be found here on Github along with my lessons learned for each project. I've worked on a variety of small to medium sizes projects that have contributed to where I am now.
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ashley-hynes/)!
