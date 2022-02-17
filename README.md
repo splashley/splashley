@@ -6,7 +6,7 @@
 
 Welcome to my Github! I'm a:<br/>
 💜 Full-Stack Developer<br/>
-💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey!)<br/>
+💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey)<br/>
 💜 Student at Concordia University for Business Technology Management<br/> 
 💜 Pro Cat Mom<br/>
 💜 Lifelong Learner<br/>
