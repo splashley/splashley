@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashleyjlhynes@gmail.com)](mailto:ashleyjlhynes@gmail.com)
 
 Welcome to my Github! I'm a:<br/>
-💜 Frontend Developer<br/>
+💜 Developer<br/>
 💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey)<br/>
 💜 Student at Concordia University for Business Technology Management<br/> 
 💜 Pro Cat Mom<br/>
