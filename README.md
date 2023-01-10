@@ -1,4 +1,4 @@
-# Hi I'm Ashley aka Splashley 👋
+# Hi I'm Ashley aka Splashley 👩‍💻👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-hynes/)](https://www.linkedin.com/in/ashley-hynes/)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/splashleycodes)](https://twitter.com/splashleycodes)
