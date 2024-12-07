@@ -7,7 +7,6 @@
 Welcome to my Github! I'm a:<br/>
 💜 Software Developer currently taking a small career break to be a full-time Mom<br/>
 💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey)<br/>
-💜 Student at Concordia University for Business Technology Management<br/> 
 💜 Mom to a 👦🏼 and six 😺s!
 💜 Lifelong Learner<br/>
 
