@@ -7,7 +7,7 @@
 Welcome to my Github! I'm a:<br/>
 💜 Software Developer currently taking a small career break to be a full-time Mom<br/>
 💜 [Twitch Streamer](https://www.twitch.com/splashley) (I stream my development journey)<br/>
-💜 Mom to a 👦🏼 and six 😺s!<br />
+💜 Mom to two kiddos and six 😺s!<br />
 💜 Lifelong Learner<br/>
 
 My projects can be found here on Github along with a list of lessons learned for each one. I've worked on a variety of small to medium-sized projects that have contributed to where I am now.
